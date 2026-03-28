@@ -1,2 +1,4 @@
-# Penetration-Testing-Reports
-Penetration Testing Reports and Security Research
+# Security Portfolio — Eric Han
+
+## Penetration Testing Reports
+- SQL Injection Vulnerability Assessment (Alvida Eatery) — March 2026
