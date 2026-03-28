@@ -1,4 +1,4 @@
-# Security Portfolio — Eric Han
+# Eric Han
 
 ## Penetration Testing Reports
-- SQL Injection Vulnerability Assessment (Alvida Eatery) 
+- SQL Injection Vulnerability Assessment
